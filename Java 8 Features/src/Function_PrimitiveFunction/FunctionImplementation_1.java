@@ -1,4 +1,4 @@
-package Function;
+package Function_PrimitiveFunction;
 
 import java.util.ArrayList;
 import java.util.function.Function;
